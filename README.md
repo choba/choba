@@ -24,4 +24,7 @@
   
     #### 💜 Introduction 💜
   ### 맛집이에오 ^_^
+  ### **Team : EGW**
+  ### >EGW Official Designer
+  ### >디발자, 개자이너
 </div>
