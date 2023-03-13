@@ -15,9 +15,10 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
 
-  #### 🐰 Studying Languages 🥕
+  #### 🐰 Studying 🥕
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe-#FF0000?style=lat&logo=Afobr&logoColor=white"/>
 
   #### ❕ IDE ❕
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -29,5 +30,5 @@
   > ## 디발자, 개자이너
   > ## 사건사고, 논란
   > ### 찐우 담당일진 논란
-  > ### 1학년 기강 잡은 논란
+  > ### 
 </div>
