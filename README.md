@@ -26,7 +26,7 @@
   #### 💜 Introduction 💜 
   [Instagram] (https://www.instagram.com/hanw1u)
   ## 맛집이에오 ^_^
-  ##**🔥 Team : EGW 🔥**
+  ### **🔥 Team : EGW 🔥**
   ## EGW Official Designer </span>
   ## 💖 디발자, 개자이너 💖
   > ## 논란 및 사건사고
