@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   
   #### 💜 Introduction 💜 
-  [Instagram] (https://www.instagram.com/hanw1u "hanu_ig")
+  [Instagram] (https://www.instagram.com/hanw1u)
   ## 맛집이에오 ^_^
   ##**🔥 Team : EGW 🔥**
   ## EGW Official Designer </span>
