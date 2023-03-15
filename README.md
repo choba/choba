@@ -26,7 +26,7 @@
   #### 💜 Introduction 💜
   ## 맛집이에오 ^_^
   ##**🔥 Team : EGW 🔥**
-  ## EGW Official Designer
+  <span style="color.	#0000FF"> ## EGW Official Designer</span>
   ## 💖 디발자, 개자이너 💖
   > ## 논란 및 사건사고
   > ### 찐우 담당일진 논란
