@@ -23,10 +23,11 @@
   #### ❕ IDE ❕
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   
-  #### 💜 Introduction 💜
+  #### 💜 Introduction 💜 
+  [Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pixiv.net%2Fen%2Fartworks%2F105411203&psig=AOvVaw38tQbOC5Iit8iq83oQNynk&ust=1678935615401000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIjZzdv43P0CFQAAAAAdAAAAABAD"siro")
   ## 맛집이에오 ^_^
   ##**🔥 Team : EGW 🔥**
-  <span style="color.	#0000FF"> ## EGW Official Designer</span>
+  ## EGW Official Designer </span>
   ## 💖 디발자, 개자이너 💖
   > ## 논란 및 사건사고
   > ### 찐우 담당일진 논란
