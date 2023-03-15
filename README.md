@@ -18,7 +18,6 @@
   #### 🐰 Studying 🥕
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe-#FF0000?style=lat&logo=Adobe&logoColor=white"/>
   
   #### ❕ IDE ❕
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
